@@ -6,3 +6,4 @@
 [05threeintegers.c](https://github.com/srishivanic/CSEN1011/blob/60b5dbf7b106edbae2ad1c0fdaa31d7cbd74d04d/05threeintegers.cpp)<br/>
 [06salaryprogram.c](https://github.com/srishivanic/CSEN1011/blob/36c0dfb23d8c10ffa166eb4457db6259bc3eeed4/06salaryprogram.c)<br/>
 [07simpleandcompoundinterest.c](https://github.com/srishivanic/CSEN1011/blob/fcbc0910812aed78efacdf7c1d4727abd7690061/07simpleandcompoundinterest.cpp)<br/>
+[08marksofsubjects.c](https://github.com/srishivanic/CSEN1011/blob/1b2296afc4171c7a9ceb397ebcf967cae1c040d4/08marksofsubjects.c)<br/>
