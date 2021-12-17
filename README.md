@@ -5,3 +5,4 @@
 [04primenum.c](https://github.com/srishivanic/CSEN1011/blob/291536a54b04707080e729873f9741c8bf663b46/04primenumbers.c++.txt)<br/>
 [05threeintegers.c](https://github.com/srishivanic/CSEN1011/blob/60b5dbf7b106edbae2ad1c0fdaa31d7cbd74d04d/05threeintegers.cpp)<br/>
 [06salaryprogram.c](https://github.com/srishivanic/CSEN1011/blob/36c0dfb23d8c10ffa166eb4457db6259bc3eeed4/06salaryprogram.c)<br/>
+[07simpleandcompoundinterest.c](https://github.com/srishivanic/CSEN1011/blob/fcbc0910812aed78efacdf7c1d4727abd7690061/07simpleandcompoundinterest.cpp)<br/>
