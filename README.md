@@ -11,3 +11,4 @@
 [10floydtriangle.c](https://github.com/srishivanic/CSEN1011/blob/cb984c9f649602ad8b70f6639094318c0b8a8910/10floydtriangle.c)<br/>
 [11fullnumpyramid.c](https://github.com/srishivanic/CSEN1011/blob/ee3e45cb764c54b0f502668b16fb2a2bd18f3873/11fullnumpyramid.c)<br/>
 [12uppercase.c](https://github.com/srishivanic/CSEN1011/blob/48320cd4626af98e7070fda77ce96ae6b33d15a4/12uppercase.c)<br/>
+[13fibnocci.c](https://github.com/srishivanic/CSEN1011/blob/1ad75c84f560c47e3aca46cc62726fb2e2a782e1/13fibonacci.c)<br/>
